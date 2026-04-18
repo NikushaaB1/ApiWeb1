@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="750" fill="#0f0f1e"/>
+  <text x="250" y="375" text-anchor="middle" dominant-baseline="middle" fill="#d4a930" font-size="80" font-family="serif">✦</text>
+  <text x="250" y="440" text-anchor="middle" fill="#3a3a50" font-size="20" font-family="sans-serif">სურათი არ არის</text>
+</svg>
